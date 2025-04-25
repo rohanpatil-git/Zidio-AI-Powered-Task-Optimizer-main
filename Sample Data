@@ -1,0 +1,9 @@
+ `employee_moods.csv`
+Create a sample dataset for employee moods:
+employee_id,timestamp,mood
+1,2023-10-01 09:00:00,happy
+1,2023-10-01 12:00:00,stressed
+1,2023-10-01 15:00:00,neutral
+2,2023-10-01 09:00:00,anxious
+2,2023-10-01 12:00:00,happy
+2,2023-10-01 15:00:00,stressed

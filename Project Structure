@@ -1,0 +1,14 @@
+Zidio-AI-Powered-Task-Optimizer/
+│
+├── data/
+│   ├── employee_moods.csv  # Sample dataset
+│
+├── src/
+│   ├── emotion_detection.py  # Emotion detection module
+│   ├── task_recommender.py    # Task recommendation module
+│   ├── mood_tracker.py         # Historical mood tracking module
+│   ├── notifications.py         # Stress alerts module
+│   └── main.py                 # Main application logic
+│
+├── requirements.txt            # Required packages
+└── README.md                   # Project documentation
